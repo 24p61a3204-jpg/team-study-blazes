@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pypdf
+langchain>=0.0.200
+chromadb
+python-multipart
+pydantic
+streamlit
+requests
+sentence-transformers
+transformers
